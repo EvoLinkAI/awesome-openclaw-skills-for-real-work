@@ -6,7 +6,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![ClawHub](https://img.shields.io/badge/powered%20by-ClawHub-blue)](https://clawhub.com)
 [![OpenClaw](https://img.shields.io/badge/runtime-OpenClaw-purple)](https://openclaw.ai)
-![Total Skills](https://img.shields.io/badge/total%20skills-58-brightgreen)
+![Total Skills](https://img.shields.io/badge/total%20skills-80-brightgreen)
 
 ---
 
