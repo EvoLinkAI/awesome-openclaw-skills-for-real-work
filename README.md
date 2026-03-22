@@ -1,4 +1,4 @@
-[![EvoLinkAI Banner](./assets/banner.png)](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-skills)
+[![EvoLinkAI Banner](./assets/banner.png)](https://evolink.ai/signup?utm_source=github&utm_medium=banner&utm_campaign=awesome-openclaw-skills)
 
 # awesome-openclaw-skills-for-real-work 🐙
 
@@ -54,6 +54,8 @@ Most skill lists are just dumps. This one is different:
 - [Contributing](#contributing)
 
 ---
+
+[![Openclaw Usecases Banner](./assets/usecases-banner.png)](https://evolink.ai/signup?utm_source=github&utm_medium=banner&utm_campaign=awesome-openclaw-skills)
 
 ## 🚀 Starter Packs
 
