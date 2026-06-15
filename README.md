@@ -18,12 +18,14 @@
 
 Use this curated OpenClaw skill list with EvoLink model routing and media tools:
 
-- [Browse EvoLink models](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-skills-for-real-work)
-- [Read EvoLink API docs](https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-skills-for-real-work)
-- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-skills-for-real-work)
-- [Open the OpenClaw model list](https://github.com/EvoLinkAI/openclaw-models-list)
-- [Install the EvoLink Media MCP server](https://github.com/EvoLinkAI/evolink-media-mcp)
-- [Browse OpenClaw use cases](https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook)
+<p align="center">
+  <a href="https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-skills-for-real-work"><strong>Model Page</strong></a> &nbsp;·&nbsp;
+  <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-skills-for-real-work"><strong>Docs</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-skills-for-real-work"><strong>API Key</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/openclaw-models-list"><strong>Model List</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/evolink-media-mcp"><strong>Media MCP</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook"><strong>Use Cases</strong></a>
+</p>
 
 ```bash
 export EVOLINK_API_KEY="your_key_here"
