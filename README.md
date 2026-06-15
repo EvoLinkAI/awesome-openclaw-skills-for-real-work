@@ -14,6 +14,35 @@
 
 ---
 
+## EvoLink Quick Start
+
+Use this curated OpenClaw skill list with EvoLink model routing and media tools:
+
+- [Browse EvoLink models](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-skills-for-real-work)
+- [Read EvoLink API docs](https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-skills-for-real-work)
+- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-skills-for-real-work)
+- [Open the OpenClaw model list](https://github.com/EvoLinkAI/openclaw-models-list)
+- [Install the EvoLink Media MCP server](https://github.com/EvoLinkAI/evolink-media-mcp)
+- [Browse OpenClaw use cases](https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook)
+
+```bash
+export EVOLINK_API_KEY="your_key_here"
+
+curl --request POST \
+  --url https://direct.evolink.ai/v1/chat/completions \
+  --header "Authorization: Bearer ${EVOLINK_API_KEY}" \
+  --header 'Content-Type: application/json' \
+  --data '{
+    "model": "claude-fable-5",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Recommend an OpenClaw skill stack for a daily research agent."
+      }
+    ]
+  }'
+```
+
 ## Philosophy
 
 Most skill lists are just dumps. This one is different:
