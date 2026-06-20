@@ -10,7 +10,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![ClawHub](https://img.shields.io/badge/powered%20by-ClawHub-blue)](https://clawhub.com)
 [![OpenClaw](https://img.shields.io/badge/runtime-OpenClaw-purple)](https://openclaw.ai)
-![Total Skills](https://img.shields.io/badge/total%20skills-80-brightgreen)
+![Total Skills](https://img.shields.io/badge/total%20skills-81-brightgreen)
 
 ---
 
@@ -77,7 +77,7 @@ Most skill lists are just dumps. This one is different:
 - [🧠 Memory & Knowledge](#-memory--knowledge)
 - [💬 Communication & Messaging](#-communication--messaging)
 - [📊 Data & Documents](#-data--documents)
-- [🛠️ Dev Tools](#️-dev-tools)
+- [🛠️ Dev Tools](#dev-tools)
 - [🎨 Creative & Media](#-creative--media)
 - [💰 Finance & Markets](#-finance--markets)
 - [🏠 Smart Home & System](#-smart-home--system)
@@ -161,6 +161,7 @@ For marketers, social media managers, and writers.
 | SuperDesign | ❌ | UI/design specs and mockup descriptions |
 | [OpenAI Image Gen](./skills/openai-image-gen.md) 📖 | ✅ | Generate images inline |
 | [Markdown Converter](./skills/markdown-converter.md) 📖 | ✅ | Convert anything to/from Markdown |
+| [TweetClaw](./skills/tweetclaw.md) 📖 | ✅ | X/Twitter research, drafting, scheduling, and approval-gated publishing |
 | [YouTube Watcher](./skills/youtube-watcher.md) 📖 | ✅ | Research videos without watching them |
 | Xiaohongshu Automation ⚠️ | ❌ | Xiaohongshu / 小红书 content workflow |
 
@@ -199,6 +200,7 @@ Skills that let your agent actually *do* things on the web, not just look things
 | Playwright (Automation + MCP + Scraper) | 18 | 🆓 | ❌ | Full suite: automate, test, and scrape with Playwright |
 | [Desktop Control](./skills/desktop-control.md) 📖 ⚠️ | 214 | 🆓 | ✅ | Mouse, keyboard, screen control — powerful but review security scan |
 | Xiaohongshu Automation | 79 | 🆓 ⚠️ | ❌ | 小红书 content workflow via MCP |
+| [TweetClaw](./skills/tweetclaw.md) 📖 | 75 | 🔑 | ✅ | X/Twitter workflow plugin for research, drafting, scheduling, and approval-gated publishing |
 | [YouTube Watcher](./skills/youtube-watcher.md) 📖 | 217 | 🆓 | ✅ | Extract transcripts, summaries, and insights from YouTube videos |
 | [Camsnap](./skills/camsnap.md) 📖 | 7 | 🆓 | ✅ | Take camera snapshots on macOS |
 | Video Frames | 79 | 🆓 | ❌ | Extract frames from local video files for analysis |
@@ -274,6 +276,8 @@ Read, write, convert, and analyze documents without leaving your chat.
 > ⚠️ **Note on PDF** (⭐30, `awspace/pdf`): flagged — use Nano PDF instead.
 
 ---
+
+<a id="dev-tools"></a>
 
 ## 🛠️ Dev Tools
 
